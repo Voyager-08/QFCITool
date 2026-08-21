@@ -1,0 +1,20 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>qml/Main.qml</file>
+        <file>qml/Theme.qml</file>
+        <file>qml/qmldir</file>
+        <file>qml/components/TopBar.qml</file>
+        <file>qml/components/UsbConfigPopup.qml</file>
+        <file>qml/components/Sidebar.qml</file>
+        <file>qml/components/ControlBar.qml</file>
+        <file>qml/components/ActionButton.qml</file>
+        <file>qml/components/MonitorView.qml</file>
+        <file>qml/components/InfoCard.qml</file>
+        <file>qml/components/JointRow.qml</file>
+        <file>qml/pages/DigitalTwinPage.qml</file>
+        <file>qml/pages/MotorPage.qml</file>
+        <file>qml/pages/DevicePage.qml</file>
+        <file>assets/icons/usb.svg</file>
+    </qresource>
+</RCC>
